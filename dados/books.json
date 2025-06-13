@@ -1,0 +1,40 @@
+[
+   {
+      "id":1,
+      "nome":"A Metamorfose",
+      "autor":"Franz Kafka",
+      "ano": 1915,
+      "preco":79.5,
+      "reviews":[
+         {
+            "rating":5,
+            "comment":"Não entendi muito, mas amei"
+         },
+         {
+            "rating":5,
+            "comment":"Um gênio"
+         }
+      ]
+   },
+   {
+      "id":2,
+      "nome":"O Alquimista",
+      "autor":"Paulo Coelho",
+      "ano": 1988,
+      "preco":49.99,
+      "reviews":[
+         {
+            "rating":5,
+            "comment":"Melhor da vida!"
+         },
+         {
+            "rating":5,
+            "comment":"Sai outra pessoa após a leitura!"
+         },
+         {
+            "rating":2,
+            "comment":"Um livrinho como qualquer outro!"
+         }
+      ]
+   }
+]
